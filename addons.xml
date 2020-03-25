@@ -255,7 +255,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
     <description lang="en"></description>    
   </extension>
 </addon>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.38" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.39" provider-name="jsergio">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" optional="true" />
