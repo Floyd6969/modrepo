@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.skynet.artwork" version="1.0.3" name="[COLORwhite]Skynet Artwork[/COLOR]" provider-name="T 1000">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes For Skynet Addon</summary>
+		<description>Artwork Module For Skynet Addon</description>
+        <disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
