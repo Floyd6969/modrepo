@@ -620,4 +620,15 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
+<addon id="script.skynet.metadata" version="1.0.2" name="[COLORwhite]Skynet Metadata[/COLOR]" provider-name="T 1000">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the SkyNet Addon</summary>
+		<description>Metadata for Skynet are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
