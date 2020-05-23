@@ -596,7 +596,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.blackhat" name="Black Hat Module" version="1.0.1" provider-name="Douche Bag">
+<addon id="script.module.blackhat" name="Black Hat Module" version="1.0.2" provider-name="Douche Bag">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
