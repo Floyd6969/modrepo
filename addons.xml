@@ -607,4 +607,15 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<summary lang="en">Black Hat</summary>
 	</extension>
 </addon>
+<addon id="script.blackhat.artwork" version="1.0.1" name="Black Hat Artwork" provider-name="Douche Bag">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Black Hat Artwork</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>	
 </addons>
