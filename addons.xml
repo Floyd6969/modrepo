@@ -618,14 +618,14 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.blackhat.metadata" version="1.0.0" name="Black Hat Metadata" provider-name="Douche Bag">
+<addon id="script.bladerunner.metadata" version="1.0.0" name="[COLORred]Blade Runner Metadata[/COLOR]" provider-name="Man With No Name">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
-		<summary>Black Hat Metadata</summary>
-		<description>Metadata for Black Hat are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<summary>Blade Runner Metadata</summary>
+		<description>Metadata for Blade Runner is maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
 </addon>
