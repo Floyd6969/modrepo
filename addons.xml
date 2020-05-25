@@ -596,7 +596,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.bladerunner" name="[COLORred]Blade Runner Module[/COLOR]" version="1.0.2" provider-name="Man With No Name">
+<addon id="script.module.bladerunner" name="[COLORred]Blade Runner Module[/COLOR]" version="1.0.3" provider-name="Man With No Name">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
