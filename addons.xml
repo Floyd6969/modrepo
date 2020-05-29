@@ -573,7 +573,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
         <disclaimer lang="en"></disclaimer>
 	</extension>
 </addon>
-<addon id="script.skynet.artwork" version="1.0.5" name="[COLORwhite]Skynet Artwork[/COLOR]" provider-name="T 1000">
+<addon id="script.skynet.artwork" version="1.0.6" name="[COLORwhite]Skynet Artwork[/COLOR]" provider-name="T 1000">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
