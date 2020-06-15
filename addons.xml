@@ -539,7 +539,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 	    <disclaimer lang="en">Use at your own risk. The authors accept no liability. May cause permanent and/or catastrophic damage. Side effects include, but are not limited to loss of memory, seizures, sudden fits of rage, sudden fits of melancholy, inability to recall prominent capital cities, lack of respect for authority, fear of cats, temporary and/or permanent black outs. Avoid inhalation. Use in a well ventilated space. Keep away from small children.</disclaimer>
 	</extension>
 </addon>
-<addon id="script.module.skynet" name="[COLORwhite]Skynet Module[/COLOR]" version="1.1.8" provider-name="T 1000">
+<addon id="script.module.skynet" name="[COLORwhite]Skynet Module[/COLOR]" version="1.1.9" provider-name="T 1000">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
