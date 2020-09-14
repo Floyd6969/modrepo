@@ -607,7 +607,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.swiftstreamz1" name="SwiftStreamz" version="1.0.0" provider-name="Ghost">
+<addon id="script.module.swiftstreamz" name="SwiftStreamz" version="1.0.3" provider-name="The Wombles">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.pycryptodome" />
@@ -621,17 +621,12 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
   </extension>
   <extension point="xbmc.addon.metadata">
     <reuselanguageinvoker>true</reuselanguageinvoker>
-    <summary lang="en_gb">This module has been cloned from the Racc TvOne add-on.All credit to him.</summary>
-    <description lang="en_gb">Ghost</description>
+    <summary lang="en_gb">This module has been cloned from the Racc TvOne add-on. Any and all credit must go to himself.</summary>
+    <description lang="en_gb">The Wombles</description>
     <disclaimer lang="en_gb"></disclaimer>
-    <language></language>
     <platform>all</platform>
-    <license>GPL-3.0</license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-  </extension>
+    <license>GPL-1.0-only</license>
+   </extension>
 </addon>
 <addon id="script.module.tt" name=" TvTap" version="1.4.b" provider-name="RACC">
   <requires>
