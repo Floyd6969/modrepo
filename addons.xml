@@ -633,20 +633,16 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
     <news></news>
     </extension>
 </addon>
-<addon id="script.module.tt" name=" TvTap" version="1.4.b" provider-name="RACC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.livestreamer" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <description lang="en">Tap Tv Android Apk</description>
-    <platform>all</platform>
-  </extension>
+<addon id="script.revolution.artwork" version="0.0.2" name="[COLORred]Revolution Artwork[/COLOR]" provider-name="Bill Oddie">
+	<requires>
+		<!--<import addon="xbmc.python" version="2.19.0"/>-->
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Revolution Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
 </addon>
 <addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2019.09.30" provider-name="Bugatsinho">
     <requires>
