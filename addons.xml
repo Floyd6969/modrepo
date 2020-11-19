@@ -644,6 +644,17 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
+<addon id="script.revolution.metadata" version="0.0.2" name="[COLORred]Revolution Metadata[/COLOR]" provider-name="Bill Oddie">
+	<requires>
+		<!--<import addon="xbmc.python" version="2.19.0"/>-->
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Revolution Addon</summary>
+		<description>Metadata for Revolution are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 <addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2019.09.30" provider-name="Bugatsinho">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
