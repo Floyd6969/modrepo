@@ -607,7 +607,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.revolutionscrapers" name="[COLORred]Revolution Scrapers Module[/COLOR]" version="1.1.2" provider-name="Bill Oddie">
+<addon id="script.module.revolutionscrapers" name="[COLORred]Revolution Scrapers Module[/COLOR]" version="1.1.4" provider-name="Bill Oddie">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.module.beautifulsoup4" />
@@ -633,7 +633,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
     <news></news>
     </extension>
 </addon>
-<addon id="script.revolution.artwork" version="0.0.2" name="[COLORred]Revolution Artwork[/COLOR]" provider-name="Bill Oddie">
+<addon id="script.revolution.artwork" version="0.0.3" name="[COLORred]Revolution Artwork[/COLOR]" provider-name="Bill Oddie">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.19.0"/>-->
 	</requires>
@@ -644,7 +644,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.revolution.metadata" version="0.0.2" name="[COLORred]Revolution Metadata[/COLOR]" provider-name="Bill Oddie">
+<addon id="script.revolution.metadata" version="0.0.3" name="[COLORred]Revolution Metadata[/COLOR]" provider-name="Bill Oddie">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.19.0"/>-->
 	</requires>
