@@ -607,7 +607,7 @@ Fix failure to sign in when signed off externally (Issue #110, #117)
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.module.revolutionscrapers" name="[COLORred]Revolution Scrapers Module[/COLOR]" version="1.1.1" provider-name="Bill Oddie">
+<addon id="script.module.revolutionscrapers" name="[COLORred]Revolution Scrapers Module[/COLOR]" version="1.1.2" provider-name="Bill Oddie">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.module.beautifulsoup4" />
