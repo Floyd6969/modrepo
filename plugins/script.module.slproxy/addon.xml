@@ -3,7 +3,7 @@
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests"/>
-	  <import addon="script.module.streamlink.base" />  
+   <import addon="script.module.streamlink.base" />  
   </requires>
   <extension point="xbmc.python.module" library="lib/"/>
   <extension point="xbmc.addon.metadata">
